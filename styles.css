@@ -1,0 +1,12 @@
+body {
+    background-image: url('C:/Users/USER/Pictures/v.jpg'); /* Update with the actual image path */
+    background-size: cover;
+    background-position: center;
+}
+
+.frame {
+    background-color: rgba(255, 255, 255, 0.8); /* Example frame background color */
+    border: 5px solid #000; /* Example border for the frame */
+    padding: 20px; /* Example padding for the frame */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Example shadow for depth */
+}
